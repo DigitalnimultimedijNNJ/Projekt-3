@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+
+color: black;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+font-size: 16px;
+line-height: 18px;
+width: 400px;
+background-color: lightcoral;
+padding: 50px;
+}
+
+h1, h2, h3, h4, h5, h6, h7, h8, h9, h1 {
+	font-family: Arial, "sans-serif;";
+	color:  darkred;
+}
+span {color:  rgb(255, 0, 0, 255;}
+body {
+	background-image: url("slike.jpg");
+}
+a:link {
+	color: black;
+	background-color: gray;
+	padding: 5px;
+	line-height: 40px
+	border:1px solid #000000;
+}
